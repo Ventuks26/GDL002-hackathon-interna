@@ -1,7 +1,7 @@
-# Dori
+# Pop N' Save
 
 ### Planteamiento:
-Dori App es una aplicación que está dirigida a todo tipo de usuario. Este proyecto está enfocado en películas y series. Esta aplicación te permite guardar en tu tablero películas o serie que te han recomendado  para no olvidarte de ellas, en caso de que no te hayan recomendado puedes buscarlas  por calificación, genero,  en caso de las series duración de capítulos etc. Te permite ver información acerca de la película o serie (Poster, titulo, años, duración, genero y reseña ).
+Pop N' Save App es una aplicación que está dirigida a todo tipo de usuario. Este proyecto está enfocado en películas y series. Esta aplicación te permite guardar en tu tablero películas o serie que te han recomendado  para no olvidarte de ellas, en caso de que no te hayan recomendado puedes buscarlas  por calificación, genero,  en caso de las series duración de capítulos etc. Te permite ver información acerca de la película o serie (Poster, titulo, años, duración, genero y reseña ).
 
 
 
@@ -44,7 +44,7 @@ https://www.figma.com/proto/YBsi56f5hhmWI5af9IvEqB77/Hackathon-Pel%C3%ADculas?no
 5. Tablero con mis pelis/series que ya he guardado anteriormente
 
 
-##  Quien utiliza Dori App:
+##  Quien utiliza Pop N' Save App:
 
 Hombres y mujeres mayores de 12  años que quieran recordar las películas o series recomendadas o simplemente que quieran buscar películas y no olvidar que película le intereso.
 
